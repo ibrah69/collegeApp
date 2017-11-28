@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_item_new_guardian" type="id" />
+    <item name="menu_item_new_sibling" type="id" />
+    <item name="menu_item_delete_family_member" type="id" />
+    <item name="menu_item_save_family_member" type="id" />
+    <item name="family_member_list_item_nameTextView" type="id" />
+    <item name="fragmentContainer" type="id" />
+</resources>
